@@ -1,9 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://subtlefuge.com/transparent.png" width="100"></a></p>
 
 <p align="center">
-  <a href="https://corbin.world"><img src="https://img.shields.io/website?down_message=Offline&style=flat-square&up_color=greren&up_message=Online&url=https%3A%2F%2Fcorbin.world" alt="Corbin.world Status"></a>
-  <a href="https://matrix.to/#/#root:subtlefuge.com"><img src="https://img.shields.io/matrix/video:subtlefuge.com?color=%230dbd8b&label=Matrix&logo=matrix&style=flat-square" alt="Matrix Chat Server"></a>
-    <a href="https://github.com/digitalnomad91"><img src="https://img.shields.io/github/followers/digitalnomad91?label=Github&logo=github&style=flat-square" alt="GitHub Followers"></a>
+  <a href="https://corbin.world"><img src="https://img.shields.io/website?down_message=Offline&up_color=greren&up_message=Online&url=https%3A%2F%2Fcorbin.world" alt="Corbin.world Status"></a>
+  <a href="https://matrix.to/#/#root:subtlefuge.com"><img src="https://img.shields.io/matrix/video:subtlefuge.com?color=%230dbd8b&label=Matrix&logo=matrix" alt="Matrix Chat Server"></a>
+    <a href="https://github.com/digitalnomad91"><img src="https://img.shields.io/github/followers/digitalnomad91?label=Github&logo=github" alt="GitHub Followers"></a>
   
 </p>
 
