@@ -627,7 +627,7 @@
                                         style="max-height: 16px; position: relative; top: 1px;"> CodeBuilder Inc.</a> -
                                 Software Engineering Solutions.</li>
                             <li><a href="/crypto">
-                                    <img src="https://static.coincap.io/assets/icons/btc@2x.png"
+                                    <img src="https://subtlefuge.com/apple-touch-icon.png"
                                         style="max-height: 16px; position: relative; top: 1px;"> Subtlefuge</a> -
                                 Subtlety is the language of experience!</li>
                             <li><a href="https://parkitfor.me" target="_blank">
