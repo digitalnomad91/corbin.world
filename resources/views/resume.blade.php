@@ -29,8 +29,7 @@
 
                 <div class="span3" style="position: relative; right: 0px; min-width: 150px;">
                     <address class="address-info hide-on-phone">
-                        705 S 9th St<br>
-                        Minneapolis, MN 55404<br>
+                        Minneapolis, MN 55405<br>
                         United States of America
                     </address>
                 </div>
