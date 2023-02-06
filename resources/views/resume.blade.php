@@ -105,7 +105,7 @@
                 </div>
 
                 <div class="span9 cv-item-details">
-                    <h4>Department of Defense</h4>
+                    <h4>Department of Defense / Defense Health Agency</h4>
 
                     <p>I worked for Department of Defense building and maintaining Learning Management Systems. I also
                         worked on a mobile application (iOS + Android) that was used for distributing a Vaccine Toolkit
