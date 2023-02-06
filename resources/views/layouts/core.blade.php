@@ -619,7 +619,7 @@
 
                 <section>
                     <article>
-                        <h1 style="margin-bottom:5px;">Ventures</h1>
+                        <h1 style="margin-bottom:5px;">Personal Websites</h1>
                         <p>Some of my works in progress:</p>
                         <ol id="articles">
                             <li><a href="https://codebuilder.us" target="_blank">
